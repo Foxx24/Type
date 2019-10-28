@@ -1,0 +1,58 @@
+/* Type */
+
+body {
+	background-color: red;
+	color: white;
+	font-family: brian larossa,sans-serif;
+	line-height: 1;
+    font-size: 1em;
+    max-width: 20em
+    text-shadow: 1px 8px grey;
+    opacity: 5;
+    transform: rotate(-40deg);
+}
+.new-color {
+	color: blue;
+}
+.other-font {
+	font-family: sans-serif;
+	color: pink;
+	transform: rotate(-40deg);
+	text-transform: italic;
+}
+.position {
+	font-weight: 2em
+	font-size: 5em;
+	color: brown;
+	position: absolute;
+	top: 3em;
+	transform: rotate(-50deg);
+}
+.position2 {
+	font-weight: 15em;
+	font-size: 33em;
+	color: transparent;
+	position: 
+	top: 2em;
+	transform: rotate(40deg);
+}
+.other-font2 {
+	color: brown;
+	font-family: papyrus, serif;
+	transform: rotate(-30deg);
+}
+.new-color2 {
+	color: grey;
+}
+ul {
+	font-family: liu jian mao cao;
+	color: yellow;
+	text-shadow: 1px 8px gray;
+    border-style: dotted;
+    border-width: 2px;
+}
+h2 {
+  color: maroon;
+  margin-left: 1px;
+  transform: rotate(-30deg);
+} 
